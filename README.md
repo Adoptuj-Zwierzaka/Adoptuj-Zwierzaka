@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/mnt/data/Adoptuj Zwierzaka.png" alt="Adoptuj Zwierzaka Logo" width="150" />
+  <img src="/data/logo 2.png" alt="Adoptuj Zwierzaka Logo" width="150" />
   <h1 style="color: #3f7b37; font-size: 3em;">Adoptuj Zwierzaka</h1>
   <p style="font-size: 1.2em; color: #555;">
     Znajdź swojego wymarzonego zwierzaka z lokalnych schronisk dzięki naszej aplikacji mobilnej!
@@ -44,6 +44,7 @@ Dzięki temu możesz mieć pewność, że nasza baza danych jest aktualna i wiar
 Jeżeli prowadzisz schronisko i chcesz dołączyć do naszej platformy, skontaktuj się z nami!
 
 ✉️ **Email**: [adoptuj-zwierzaka@proton.me](mailto:adoptuj-zwierzaka@proton.me)
+🌐 **Discord**: [Dołącz do naszego serwera](https://discord.gg/txATHtW4fj)
 
 ---
 
@@ -69,6 +70,7 @@ Nasza aplikacja to most pomiędzy osobami gotowymi na adopcję a zwierzętami, k
 Masz pytania lub sugestie? Skontaktuj się z nami:
 
 - ✉️ **Email**: [adoptuj-zwierzaka@proton.me](mailto:adoptuj-zwierzaka@proton.me)
+- 🌐 **Discord**: [Dołącz do naszego serwera](https://discord.gg/txATHtW4fj)
 
 ---
 
