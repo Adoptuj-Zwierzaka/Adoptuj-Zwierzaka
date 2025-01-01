@@ -44,6 +44,7 @@ Dzięki temu możesz mieć pewność, że nasza baza danych jest aktualna i wiar
 Jeżeli prowadzisz schronisko i chcesz dołączyć do naszej platformy, skontaktuj się z nami!
 
 ✉️ **Email**: [adoptuj-zwierzaka@proton.me](mailto:adoptuj-zwierzaka@proton.me)
+
 🌐 **Discord**: [Dołącz do naszego serwera](https://discord.gg/txATHtW4fj)
 
 ---
