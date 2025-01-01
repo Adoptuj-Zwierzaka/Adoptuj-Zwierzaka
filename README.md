@@ -43,9 +43,8 @@ Dzięki temu możesz mieć pewność, że nasza baza danych jest aktualna i wiar
 
 Jeżeli prowadzisz schronisko i chcesz dołączyć do naszej platformy, skontaktuj się z nami!
 
-✉️ **Email**: [adoptuj-zwierzaka@proton.me](mailto:adoptuj-zwierzaka@proton.me)
-
-🌐 **Discord**: [Dołącz do naszego serwera](https://discord.gg/txATHtW4fj)
+- ✉️ **Email**: [adoptuj-zwierzaka@proton.me](mailto:adoptuj-zwierzaka@proton.me)
+- 🌐 **Discord**: [Dołącz do naszego serwera](https://discord.gg/txATHtW4fj)
 
 ---
 
@@ -60,7 +59,7 @@ Nasza aplikacja to most pomiędzy osobami gotowymi na adopcję a zwierzętami, k
 
 ## 📥 Jak zacząć?
 
-1. Pobierz aplikację z Google Play lub App Store (wkrótce dostępne!).
+1. Pobierz aplikację z Google Play (wkrótce dostępne!).
 2. Zarejestruj się i ustaw swoje preferencje.
 3. Zacznij przeglądać i znajdź swojego idealnego towarzysza!
 
